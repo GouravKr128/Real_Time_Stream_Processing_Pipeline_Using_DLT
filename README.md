@@ -1,4 +1,4 @@
-## **Stream Processing Pipeline Using DLT**
+## **Stream Processing Pipeline Using Delta Live Tables**
 <br>
 
 ### **Overview**
@@ -42,7 +42,7 @@ Databricks Delta Live Tables (DLT), PySpark, Spark SQL, Workflows (Jobs), Databr
         - Proactive Alerting: Implemented custom SQL Alerts (e.g., High_Value_Txn_Alert and NonActive_Customer_Alert) that monitor the Gold layer and trigger notifications when specific business thresholds are met.
 
 ![s4](Screenshots/Screenshot_4.png)
-<br>
+<br><br>
 ![s5](Screenshots/Screenshot_5.png)
 
 
